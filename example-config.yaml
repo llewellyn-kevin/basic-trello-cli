@@ -1,0 +1,7 @@
+configurations:
+  - name: default
+    token: default-token
+    key: default-key
+  - name: personal
+    token: personal-token
+    key: personal-key
